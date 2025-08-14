@@ -9,4 +9,4 @@
 <l6>pos Am</l6>
 <l7>team arsenal</l7>
 <l8>height 6.4f</l8>
-<img src="" alt="" width="">
+<img src="20241203_222854.jpg" alt="image" width="200">
